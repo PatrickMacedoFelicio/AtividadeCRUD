@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\formularios\\atualizarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:formularios\\atualizarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\formularios\\atualizarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:formularios\\atualizarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\formularios\\cadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:formularios\\cadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\formularios\\cadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:formularios\\cadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\formularios\\deletarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:formularios\\deletarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|f:\\clones git\\poo-retormar\\trabalho-final-crud\\formularios\\listarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:formularios\\listarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\formularios\\listarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:formularios\\listarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\formularios\\deletarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:formularios\\deletarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\modulos\\dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:modulos\\dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\modulos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06CCB4C-FBA2-461F-A0E9-B76B9E12A278}|Trabalho-Final-CRUD.csproj|solutionrelative:modulos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListarCliente.cs",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\ListarCliente.cs",
+              "RelativeDocumentMoniker": "Formularios\\ListarCliente.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\ListarCliente.cs",
+              "RelativeToolTip": "Formularios\\ListarCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:28:47.914Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListarCliente.cs [Design]",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\ListarCliente.cs",
+              "RelativeDocumentMoniker": "Formularios\\ListarCliente.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\ListarCliente.cs [Design]",
+              "RelativeToolTip": "Formularios\\ListarCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:37:30.52Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeletarCliente.cs [Design]",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\DeletarCliente.cs",
+              "RelativeDocumentMoniker": "Formularios\\DeletarCliente.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\DeletarCliente.cs [Design]",
+              "RelativeToolTip": "Formularios\\DeletarCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:37:09.334Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeletarCliente.cs",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\DeletarCliente.cs",
+              "RelativeDocumentMoniker": "Formularios\\DeletarCliente.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\DeletarCliente.cs",
+              "RelativeToolTip": "Formularios\\DeletarCliente.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwEcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:00:49.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AtualizarCliente.cs [Design]",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\AtualizarCliente.cs",
+              "RelativeDocumentMoniker": "Formularios\\AtualizarCliente.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\AtualizarCliente.cs [Design]",
+              "RelativeToolTip": "Formularios\\AtualizarCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:36:59.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AtualizarCliente.cs",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\AtualizarCliente.cs",
+              "RelativeDocumentMoniker": "Formularios\\AtualizarCliente.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\AtualizarCliente.cs",
+              "RelativeToolTip": "Formularios\\AtualizarCliente.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwC4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T02:13:53.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastrarCliente.cs",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\CadastrarCliente.cs",
+              "RelativeDocumentMoniker": "Formularios\\CadastrarCliente.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\CadastrarCliente.cs",
+              "RelativeToolTip": "Formularios\\CadastrarCliente.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:31:54.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:18:09.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastrarCliente.cs [Design]",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\CadastrarCliente.cs",
+              "RelativeDocumentMoniker": "Formularios\\CadastrarCliente.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Formularios\\CadastrarCliente.cs [Design]",
+              "RelativeToolTip": "Formularios\\CadastrarCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:36:07.995Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Conexao.cs",
+              "RelativeDocumentMoniker": "Conexao.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Conexao.cs",
+              "RelativeToolTip": "Conexao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:17:42.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteDAO.cs",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Modulos\\DAO\\ClienteDAO.cs",
+              "RelativeDocumentMoniker": "Modulos\\DAO\\ClienteDAO.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Modulos\\DAO\\ClienteDAO.cs",
+              "RelativeToolTip": "Modulos\\DAO\\ClienteDAO.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwCsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:16:44.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Modulos\\Cliente.cs",
+              "RelativeDocumentMoniker": "Modulos\\Cliente.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Modulos\\Cliente.cs",
+              "RelativeToolTip": "Modulos\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:16:32.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:12:57.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\CLONES GIT\\POO-Retormar\\Trabalho-Final-CRUD\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:09:38.136Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

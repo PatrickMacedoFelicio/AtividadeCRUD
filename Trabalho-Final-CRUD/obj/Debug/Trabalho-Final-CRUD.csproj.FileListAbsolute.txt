@@ -1,0 +1,94 @@
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Trabalho-Final-CRUD.exe.config
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Trabalho-Final-CRUD.exe
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Trabalho-Final-CRUD.pdb
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho-Final-CRUD.csproj.AssemblyReference.cache
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho_Final_CRUD.Form1.resources
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho_Final_CRUD.Properties.Resources.resources
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho-Final-CRUD.csproj.GenerateResource.cache
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho-Final-CRUD.csproj.CoreCompileInputs.cache
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho-Final-CRUD.exe
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho-Final-CRUD.pdb
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\MySql.Data.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Buffers.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.IO.Pipelines.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Memory.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\ZstdSharp.dll
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Google.Protobuf.pdb
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Google.Protobuf.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\MySql.Data.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Buffers.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.IO.Pipelines.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Memory.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho_Final_CRUD.Formularios.AtualizarCliente.resources
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho_Final_CRUD.Formularios.CadastrarCliente.resources
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho_Final_CRUD.Formularios.DeletarCliente.resources
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho_Final_CRUD.Formularios.ListarCliente.resources
+C:\Users\2023102060025\Documents\Clones\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho.EDA72789.Up2Date
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Trabalho-Final-CRUD.exe.config
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Trabalho-Final-CRUD.exe
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Trabalho-Final-CRUD.pdb
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\BouncyCastle.Cryptography.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Google.Protobuf.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\K4os.Compression.LZ4.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\K4os.Hash.xxHash.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\MySql.Data.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Buffers.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.IO.Pipelines.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Memory.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Numerics.Vectors.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\ZstdSharp.dll
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\BouncyCastle.Cryptography.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Google.Protobuf.pdb
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Google.Protobuf.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\K4os.Compression.LZ4.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\K4os.Hash.xxHash.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\MySql.Data.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Buffers.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.IO.Pipelines.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Memory.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Numerics.Vectors.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho-Final-CRUD.csproj.AssemblyReference.cache
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho_Final_CRUD.Form1.resources
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho_Final_CRUD.Formularios.AtualizarCliente.resources
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho_Final_CRUD.Formularios.CadastrarCliente.resources
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho_Final_CRUD.Formularios.DeletarCliente.resources
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho_Final_CRUD.Formularios.ListarCliente.resources
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho_Final_CRUD.Properties.Resources.resources
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho-Final-CRUD.csproj.GenerateResource.cache
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho-Final-CRUD.csproj.CoreCompileInputs.cache
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho.EDA72789.Up2Date
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho-Final-CRUD.exe
+F:\CLONES GIT\POO-Retormar\Trabalho-Final-CRUD\obj\Debug\Trabalho-Final-CRUD.pdb
